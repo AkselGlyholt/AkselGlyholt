@@ -5,11 +5,14 @@ I'm a passionate frontend software engineer from Denmark.
 Status: 🟩 Active!
 
 ## 💫 About Me:
+
 I'm a 14 year-old Danish frontend software engineer with expeirence developing websites for small businesses like Barbers and Small Shops.
 I currently solve difficult engineering problems almost every day with React and Javascript for Small Businesses
 
 ## 💻 Tech Stack:
+
 <img src="{https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white}" />
+![alt text](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <img src="{https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white}" />
 <img src="{https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E}" />
 <img src="{https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB}" />
@@ -21,7 +24,6 @@ I currently solve difficult engineering problems almost every day with React and
 <img src="{https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white}" />
 <img src="{BadgeURLHere}" />
 <img src="{BadgeURLHere}" />
-
 
 <!--
 **AkselGlyholt/AkselGlyholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
