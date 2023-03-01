@@ -74,7 +74,7 @@ I currently solve difficult engineering problems almost every day with React and
 
 </td><td valign="top" width="50%">
 
-<div align="right"><img src="" align="right" style="width: 100%" /></div>
+<div align="right"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" align="right" style="width: 100%" /></div>
 
 </td></tr></table>  
 
