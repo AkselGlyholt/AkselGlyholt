@@ -1,4 +1,4 @@
-## Hey 👋, I'm Rishav Anand!  
+## Hey 👋, I'm Aksel Glyholt!  
   
 
 <a href="https://github.com/akselglyholt" target="_blank">
