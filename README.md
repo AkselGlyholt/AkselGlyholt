@@ -31,7 +31,7 @@ I currently solve difficult engineering problems almost every day with React and
 - 🔭 I’m currently working on [Adverseflow](https://github.com/Adverseflow)  
   
 
-- 🌱 I’m currently learning Next JS and Typescript  
+- 🌱 I’m currently learning NextJS, Typescript and Redux
   
 
 - ❓ Ask me about anything related to Web development  
