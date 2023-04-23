@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm a 14 year-old Danish frontend software engineer with expeirence developing websites for small businesses like Barbers and Small Shops.
+I'm a 14 year-old Danish frontend software engineer with expeirence developing web applications for Adverseflow and small businesses
 I currently solve difficult engineering problems every day with the Adverseflow team using JavaScript, HTML and CSS
   
 
