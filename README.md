@@ -26,7 +26,7 @@ I currently solve difficult engineering problems every day with the Adverseflow 
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on [Adverseflow](https://github.com/Adverseflow)  
   
@@ -35,16 +35,6 @@ I currently solve difficult engineering problems every day with the Adverseflow 
   
 
 - ❓ Ask me about anything related to Web development  
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
 
