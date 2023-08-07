@@ -28,7 +28,7 @@ I currently solve difficult engineering problems every day with the Adverseflow 
 ## Rapidfire  
 
 
-- 🔭 I’m currently working on [Adverseflow](https://github.com/Adverseflow)  
+- 🔭 I’m currently not working on any project
   
 
 - 🌱 I’m currently learning NextJS, Typescript and Redux
