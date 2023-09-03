@@ -31,7 +31,7 @@ I currently solve difficult engineering problems every day on my own project usi
 - 🔭 I’m currently not working on any project
   
 
-- 🌱 I’m currently learning NextJS, Typescript and Redux
+- 🌱 I’m currently learning Swift and SwiftUI
   
 
 - ❓ Ask me about anything related to Web development  
