@@ -18,7 +18,7 @@
 
 
 ### Glad to see you here!  
-I'm a 14 year-old Danish frontend software engineer with expeirence developing web applications for small businesses.
+I'm a 15 year-old Danish frontend software engineer with expeirence developing web applications for small businesses.
 I currently solve difficult engineering problems every day on my own project using JavaScript, HTML, CSS and React
   
 
