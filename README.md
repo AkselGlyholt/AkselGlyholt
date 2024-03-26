@@ -25,7 +25,7 @@ I currently solve difficult engineering problems every day on my own project usi
 ## Rapidfire  
 
 
-- 🔭 I’m currently not working on any project
+- 🔭 In my free time I'm currently working on a little Roblox game just for fun called "Spy Academy" (Link)[https://www.roblox.com/games/14317530258/]
   
 
 - 🌱 I’m currently learning Swift and SwiftUI
