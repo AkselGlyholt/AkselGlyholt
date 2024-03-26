@@ -16,7 +16,7 @@
 
 ### Glad to see you here!  
 I'm a 15 year-old Danish software engineer with expeirence developing web applications for small businesses and larger games on the platform Roblox.
-I currently solve difficult engineering problems every day on my own project using JavaScript, HTML, CSS and React
+I currently solve difficult engineering problems every day on my own project using JavaScript, HTML, CSS, React and Lua (Roblox)
   
 
 <br/>  
