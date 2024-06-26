@@ -4,7 +4,7 @@
 I'm a 15 year-old Danish Software Engineer with experience in Frontend using HTML5, CSS3, JavaScript ES6+. Also experienced in Lua and Luau  
   
 
-- 🔭 I’m currently working on [Spy Academy Roblox](https://github.com/Spy-Academy-rbxl/Codebase)
+- 🔭 Recently worked on a [Realtime messaging app](https://github.com/akselglyholt/messenger-clone)
   
 
 - 🌱 I’m currently learning Swift and SwiftUI  
