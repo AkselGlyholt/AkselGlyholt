@@ -4,7 +4,7 @@
 I'm a 15 year-old Danish Software Engineer with experience in Frontend using HTML5, CSS3, JavaScript ES6+. Also experienced in Lua and Luau  
   
 
-- 🔭 Recently worked on a [Realtime messaging app](https://github.com/akselglyholt/messenger-clone)
+- 🔭 Recently worked on a [Realtime messaging app](https://github.com/akselglyholt/realtime-messenger-app)
   
 
 - 🌱 I’m currently learning Swift and SwiftUI  
