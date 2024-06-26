@@ -13,7 +13,7 @@ I'm a 15 year-old Danish Software Engineer with experience in Frontend using HTM
 - ❓ Ask me about anything related to React or web related technologies  
   
 
-- ⚡ Fun fact: I started programming at 9 years of age  
+- ⚡ Fun fact: I started programming at 9 years of age on Roblox
   
 
 <br/>  
