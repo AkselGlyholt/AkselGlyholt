@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Aksel! Frontend dev since 2022  
   
 
-I'm a 15 year-old Danish Software Engineer with experience in Frontend using HTML5, CSS3, JavaScript ES6+. Also experienced in Lua and Luau  
+I'm a 16 year-old Danish Software Engineer with experience in Frontend using HTML5, CSS3, JavaScript ES6+. Also experienced in Lua and Luau  
   
 
 - 🔭 Recently worked on a [Realtime messaging app](https://github.com/akselglyholt/realtime-message-app)
