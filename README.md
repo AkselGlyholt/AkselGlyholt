@@ -7,7 +7,7 @@ I'm a 16 year-old Danish Software Engineer with experience in Frontend using HTM
 - 🔭 Recently worked on a [Realtime messaging app](https://github.com/akselglyholt/realtime-message-app)
   
 
-- 🌱 I’m currently learning Swift and SwiftUI  
+- 🌱 I’m currently learning Java
   
 
 - ❓ Ask me about anything related to React or web related technologies  
