@@ -1,7 +1,18 @@
 # 💫 About Me:
 I'm a 16 year-old danish Software Engineer with experience in Fullstack development using HTML5, CSS3, JavaScript ES6+, Node.JS, Java, React and Springboot.
 
-🔭 Recently worked on a Realtime messaging app<br><br>🌱 I’m currently learning Java<br><br>❓ Ask me about anything related to React or web related technologies<br><br>⚡ Fun fact: I started programming at 9 years of age on Roblox<br><br>
+🔭 Currently working on at my own company [AG Web Studios](https://www.agweb.studio)
+<br>
+<br>
+🌱 I’m currently learning Java
+<br>
+<br>
+❓ Ask me about anything related to React or web related technologies
+<br>
+<br>
+⚡ Fun fact: I started programming at 9 years of age on Roblox
+<br>
+<br>
 
 
 ## 🌐 Socials:
