@@ -7,7 +7,7 @@ I'm a 16 year-old danish Software Engineer with experience in Fullstack developm
 🌱 I’m currently learning Java
 <br>
 <br>
-❓ Ask me about anything related to React or web related technologies
+❓ Ask me about anything related to React or web related technologies.
 <br>
 <br>
 ⚡ Fun fact: I started programming at 9 years old on [Roblox](https://www.roblox.com)
