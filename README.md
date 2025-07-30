@@ -4,7 +4,7 @@ I'm a 16 year-old danish Software Engineer with experience in Fullstack developm
 🔭 Currently working on at my own company [AG Web Studios](https://www.agweb.studio)
 <br>
 <br>
-🌱 I’m currently learning Java
+🌱 I’m currently learning Java. Check out a system of mine [Velocity Limbo Handler](https://github.com/AkselGlyholt/velocity-limbo-handler)
 <br>
 <br>
 ❓ Ask me about anything related to React or web related technologies.
