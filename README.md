@@ -12,7 +12,7 @@
 
 ## 🚀 About Me  
 
-I’m a **Software Engineer & Entrepreneur** from Denmark, passionate about building web experiences that balance **clean design, performance, and usability**.  
+I’m a 16 year old **Software Engineer & Entrepreneur** from Denmark, passionate about building web experiences that balance **clean design, performance, and usability**.  
 
 At [AG Web Studio](https://www.agweb.studio), I help businesses and individuals create **custom websites, scalable applications, and optimized digital solutions**.  
 
