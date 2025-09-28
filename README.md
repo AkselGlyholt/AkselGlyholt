@@ -70,7 +70,7 @@ Outside of client work, I explore **backend systems, developer tools, and game d
 Helping brands and businesses build **modern, scalable websites** with clean design and fast performance.  
 
 ### 🔹 Open Source Projects
-- **[VelocityLimboHandler](https://github.com/akselglyholt/velocity-limbo-handler)** – Effortlessly manage player reconnections with a structured queue system!
+- **[VelocityLimboHandler](https://github.com/akselglyholt/velocity-limbo-handler)** – Effortlessly manage player reconnections with a structured queue system, used by 500+ networks
 
 ---
 
