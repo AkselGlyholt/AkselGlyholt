@@ -5,7 +5,7 @@ Full-stack software engineer based in Denmark. Founder of [AG Web Studios](https
 ### Currently
 
 - Running **AG Web Studios**, a web agency serving retained clients
-- Studying at **Teknisk Gymnasium LF (HTX)** as a second year student
+- Studying at **Teknisk Gymnasium LF (HTX)** as a third year student, studying Mathematics A and Physics A
 - Maintaining **Velocity Limbo Handler**, used on 1,000+ Minecraft server networks
 
 ### Previously
@@ -26,7 +26,7 @@ I write at [akselglyholt.com/blog](https://www.akselglyholt.com/blog) where I po
 **Languages:** TypeScript, JavaScript, Java  
 **Frontend:** React, Next.js (SSR/ISR), React Native, Redux, TailwindCSS, Shadcn UI  
 **Backend:** Node.js, Express, Bun, REST, JWT  
-**Data:** MongoDB, Supabase, Firebase, Prisma  
+**Data:** MongoDB, Supabase, Firebase, Neon, Prisma  
 **Ops:** Docker, GitHub Actions, CI/CD  
 
 ### Reach me
