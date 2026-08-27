@@ -5,6 +5,7 @@ Full-stack software engineer based in Denmark. Founder of [AG Web Studios](https
 ### Currently
 
 - Running **AG Web Studios**, a web agency serving retained clients
+- CTO at [**Campusportalen**](https://campusportalen.dk)
 - Studying at **Teknisk Gymnasium LF (HTX)** as a third year student, studying Mathematics A and Physics A
 - Maintaining **Velocity Limbo Handler**, used on 1,000+ Minecraft server networks
 
